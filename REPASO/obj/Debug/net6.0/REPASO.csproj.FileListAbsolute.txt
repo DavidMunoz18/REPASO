@@ -1,0 +1,14 @@
+C:\Users\csi23-dmunnco\source\repos\REPASO\obj\Debug\net6.0\REPASO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-dmunnco\source\repos\REPASO\obj\Debug\net6.0\REPASO.AssemblyInfoInputs.cache
+C:\Users\csi23-dmunnco\source\repos\REPASO\obj\Debug\net6.0\REPASO.AssemblyInfo.cs
+C:\Users\csi23-dmunnco\source\repos\REPASO\obj\Debug\net6.0\REPASO.csproj.CoreCompileInputs.cache
+C:\Users\csi23-dmunnco\source\repos\REPASO\bin\Debug\net6.0\REPASO.exe
+C:\Users\csi23-dmunnco\source\repos\REPASO\bin\Debug\net6.0\REPASO.deps.json
+C:\Users\csi23-dmunnco\source\repos\REPASO\bin\Debug\net6.0\REPASO.runtimeconfig.json
+C:\Users\csi23-dmunnco\source\repos\REPASO\bin\Debug\net6.0\REPASO.dll
+C:\Users\csi23-dmunnco\source\repos\REPASO\bin\Debug\net6.0\REPASO.pdb
+C:\Users\csi23-dmunnco\source\repos\REPASO\obj\Debug\net6.0\REPASO.dll
+C:\Users\csi23-dmunnco\source\repos\REPASO\obj\Debug\net6.0\refint\REPASO.dll
+C:\Users\csi23-dmunnco\source\repos\REPASO\obj\Debug\net6.0\REPASO.pdb
+C:\Users\csi23-dmunnco\source\repos\REPASO\obj\Debug\net6.0\REPASO.genruntimeconfig.cache
+C:\Users\csi23-dmunnco\source\repos\REPASO\obj\Debug\net6.0\ref\REPASO.dll
