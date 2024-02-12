@@ -78,7 +78,7 @@ namespace REPASO.Servicios
             Console.WriteLine("Ingresa el nombre de la actividad");
             cliente.NombreActividad = Console.ReadLine();
 
-            Console.WriteLine("Ingresa la fecha de inicio y hora (dddd/MM/yyyy:HHTmm) de la actividad");
+            Console.WriteLine("Ingresa la fecha de inicio y hora (dd/MM/yyyy:HHTmm) de la actividad");
             cliente.FechaInicio = Convert.ToDateTime(Console.ReadLine());
             
 
